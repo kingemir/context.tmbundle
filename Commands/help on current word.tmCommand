@@ -5,7 +5,7 @@
 	<key>beforeRunningCommand</key>
 	<string>nop</string>
 	<key>command</key>
-	<string>curl -s http://texshow.contextgarden.net/cmd/$TM_CURRENT_WORD</string>
+	<string>curl -s https://wiki.contextgarden.net/Command/$TM_CURRENT_WORD</string>
 	<key>input</key>
 	<string>none</string>
 	<key>keyEquivalent</key>
